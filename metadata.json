@@ -1,0 +1,8 @@
+{
+  "name": "Sidee — Your TV, your apps",
+  "description": "Connect to your compatible VIDAA TV and manage additional web-app launcher tiles on your local network.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
